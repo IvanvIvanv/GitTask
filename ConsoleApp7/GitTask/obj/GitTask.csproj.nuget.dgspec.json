@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitTask\\ConsoleApp7\\GitTask\\GitTask.csproj": {}
+    "C:\\Users\\Иван\\OneDrive\\Документы\\GitHub\\GitTask\\ConsoleApp7\\GitTask\\GitTask.csproj": {}
   },
   "projects": {
-    "D:\\GitTask\\ConsoleApp7\\GitTask\\GitTask.csproj": {
+    "C:\\Users\\Иван\\OneDrive\\Документы\\GitHub\\GitTask\\ConsoleApp7\\GitTask\\GitTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitTask\\ConsoleApp7\\GitTask\\GitTask.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\OneDrive\\Документы\\GitHub\\GitTask\\ConsoleApp7\\GitTask\\GitTask.csproj",
         "projectName": "GitTask",
-        "projectPath": "D:\\GitTask\\ConsoleApp7\\GitTask\\GitTask.csproj",
-        "packagesPath": "C:\\Users\\zabor\\.nuget\\packages\\",
-        "outputPath": "D:\\GitTask\\ConsoleApp7\\GitTask\\obj\\",
+        "projectPath": "C:\\Users\\Иван\\OneDrive\\Документы\\GitHub\\GitTask\\ConsoleApp7\\GitTask\\GitTask.csproj",
+        "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Иван\\OneDrive\\Документы\\GitHub\\GitTask\\ConsoleApp7\\GitTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zabor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

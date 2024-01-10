@@ -1,0 +1,14 @@
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.exe
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.deps.json
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.runtimeconfig.json
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.dll
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\bin\Debug\net6.0\GitTask.pdb
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.AssemblyInfoInputs.cache
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.AssemblyInfo.cs
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.csproj.CoreCompileInputs.cache
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.dll
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\refint\GitTask.dll
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.pdb
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\GitTask.genruntimeconfig.cache
+C:\Users\Иван\OneDrive\Документы\GitHub\GitTask\ConsoleApp7\GitTask\obj\Debug\net6.0\ref\GitTask.dll
